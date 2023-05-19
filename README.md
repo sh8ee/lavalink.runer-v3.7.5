@@ -1,1 +1,2 @@
 # Lavalink.runer
+Lavalink is a standalone audio sending node that can be used with various music bots. It is based on Lavaplayer and supports multiple sources of audio, such as YouTube, SoundCloud, Bandcamp, etc. Lavalink can be hosted on different platforms, such as Repl.it, UptimeRobot, or your own server. Lavalink also has client libraries for different programming languages, such as Python, Java, or JavaScript.
